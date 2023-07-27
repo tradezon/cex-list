@@ -1,12 +1,11 @@
 {
   "name": "@tradezon/cex",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Curated list of CEX addresses",
   "main": "dist/index.js",
   "repository": "git@github.com:tradezon/cex-list.git",
   "author": "Ivan Kopeykin <ivan.kopeykin@gmail.com>",
   "license": "MIT",
-  "private": false,
   "files": [
     "src",
     "data",
